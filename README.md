@@ -5,6 +5,7 @@ A responsive and modern e-commerce frontend built with HTML, CSS, and JavaScript
 ## 🌐 Live Demo
 
 Explore the live website: [e-commerc-seven.vercel.app](https://e-commerc-seven.vercel.app)
+ ## 📁 Project Structure
 ```
 E-Commerce/
 ├── about/               # About us page assets
